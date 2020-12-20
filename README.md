@@ -53,13 +53,13 @@ Estudar e praticar, tecnologias da linguagem de programação [Java](https://pt.
 
 ------
 
-**Anteriores:**
+**`Anteriores:`**
 
 <img src="https://image.flaticon.com/icons/png/512/123/123385.png" width=50 height=50 /> Raciocínio Lógico - <img src="https://www.flaticon.com/svg/static/icons/svg/1377/1377975.svg" width=50 height=50 /> Inglês Técnico
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/3330/3330778.svg" width=50 height=50 /> Lógica de Programação e Algoritmos
 
-**Atuais:**
+**`Atuais:`**
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/2920/2920244.svg" width=50 height=50 /> Programação orientada a objetos
 
@@ -67,7 +67,7 @@ Estudar e praticar, tecnologias da linguagem de programação [Java](https://pt.
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/1875/1875777.svg" width=50 height=50 /> Arquitetura e organização de computadores
 
-**Futuros:**
+**`Futuros:`**
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/2818/2818273.svg" width=50 height=50 /> Banco de Dados
 
