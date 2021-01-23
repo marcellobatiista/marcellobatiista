@@ -9,25 +9,18 @@
 
 ------
 
-##### Eu sou Marcelo!
-
-------
-
 <center><h1>
     Objetivos
     </h1>  </center>
 
 
-Estudar e praticar, tecnologias da linguagem de programação [Java](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação)), que é a principal linguagem de ensino do curso de [ADS](https://www.guiadacarreira.com.br/carreira/analise-e-desenvolvimento-de-sistemas/), a fim de desenvolver o meu portfólio e ingressar no mercado de trabalho.
+Estudar e praticar, tecnologias da linguagem de programação Java, que é a principal linguagem de ensino do curso de ADS, a fim de desenvolver o meu portfólio e ingressar no mercado de trabalho.
 
-:footprints: **Médio/Longo Prazo**
-
-- Full-Stack
 - Back-End
 - Desenvolvimento mobile
 
 <center><h1>
-    Estudos - Log
+    Hard Skills
     </h1>  </center>
 
 
@@ -37,7 +30,7 @@ Git - Java - Python
 
 
 
-- [x] Disponível para oportunidades de *Dev Jr*
+- [x] Disponível para oportunidades
 
 ------
 
