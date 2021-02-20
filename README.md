@@ -20,7 +20,7 @@ Estudar e praticar, tecnologias da linguagem de programação Java, que é a pri
 - Desenvolvimento mobile
 
 <center><h1>
-    Hard Skills
+    Tech
     </h1>  </center>
 
 
