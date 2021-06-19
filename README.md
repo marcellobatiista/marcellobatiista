@@ -3,34 +3,8 @@
 ------
 
 <center><h1>
-    Bem-vindo!
+    Wellcome!
     </h1>  </center>
 
 
 ------
-
-<center><h1>
-    Objetivos
-    </h1>  </center>
-
-
-Estudar e praticar, tecnologias da linguagem de programação Java, que é a principal linguagem de ensino do curso de ADS, a fim de desenvolver o meu portfólio e ingressar no mercado de trabalho.
-
-- Back-End
-- Desenvolvimento mobile
-
-<center><h1>
-    Tech
-    </h1>  </center>
-
-
-Git - Java - Python
-
-------
-
-
-
-- [x] Disponível para oportunidades
-
-------
-
