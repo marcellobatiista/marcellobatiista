@@ -3,7 +3,7 @@
 ------
 
 <center><h1>
-    Wellcome!
+    Welcome!
     </h1>  </center>
 
 
